@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 DEC 2016 15:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 DEC 2016 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -429,7 +429,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
 Package rerunfilecheck Info: File `funding.out' has not changed.
-(rerunfilecheck)             Checksum: DD69FE4A76CAB091AB2BD6C0A8BDDBE8;209.
+(rerunfilecheck)             Checksum: B73D54C025B579D5B1479FBFAE07AA5E;208.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
  ) 
 Here is how much of TeX's memory you used:
@@ -444,7 +444,7 @@ Here is how much of TeX's memory you used:
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on funding.pdf (2 pages, 57005 bytes).
+Output written on funding.pdf (2 pages, 56915 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
