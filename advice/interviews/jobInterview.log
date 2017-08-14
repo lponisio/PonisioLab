@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 AUG 2017 17:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 AUG 2017 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -231,91 +231,44 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks24
 \verbatim@in@stream=\read1
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/paralist/paralist.sty
-Package: paralist 2013/06/09 v2.4 Extended list environments
-\pltopsep=\skip47
-\plpartopsep=\skip48
-\plitemsep=\skip49
-\plparsep=\skip50
-\pl@lab=\toks25
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen126
-\WF@size=\dimen127
-\c@WF@wrappedlines=\count104
-\WF@box=\box31
-\WF@everypar=\toks26
-Package: wrapfig 2003/01/31  v 3.6
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/lipsum/lipsum.sty
-Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count105
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/booktabs/booktabs.sty
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen128
-\lightrulewidth=\dimen129
-\cmidrulewidth=\dimen130
-\belowrulesep=\dimen131
-\belowbottomsep=\dimen132
-\aboverulesep=\dimen133
-\abovetopsep=\dimen134
-\cmidrulesep=\dimen135
-\cmidrulekern=\dimen136
-\defaultaddspace=\dimen137
-\@cmidla=\count106
-\@cmidlb=\count107
-\@aboverulesep=\dimen138
-\@belowrulesep=\dimen139
-\@thisruleclass=\count108
-\@lastruleclass=\count109
-\@thisrulewidth=\dimen140
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip51
-\bibsep=\skip52
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count110
-)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
-\ttl@box=\box32
-\beforetitleunit=\skip53
-\aftertitleunit=\skip54
-\ttl@plus=\dimen141
-\ttl@minus=\dimen142
-\ttl@toksa=\toks27
-\titlewidth=\dimen143
-\titlewidthlast=\dimen144
-\titlewidthfirst=\dimen145
+\ttl@box=\box31
+\beforetitleunit=\skip47
+\aftertitleunit=\skip48
+\ttl@plus=\dimen126
+\ttl@minus=\dimen127
+\ttl@toksa=\toks25
+\titlewidth=\dimen128
+\titlewidthlast=\dimen129
+\titlewidthfirst=\dimen130
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip55
-\f@ncyO@elh=\skip56
-\f@ncyO@erh=\skip57
-\f@ncyO@olh=\skip58
-\f@ncyO@orh=\skip59
-\f@ncyO@elf=\skip60
-\f@ncyO@erf=\skip61
-\f@ncyO@olf=\skip62
-\f@ncyO@orf=\skip63
+\fancy@headwidth=\skip49
+\f@ncyO@elh=\skip50
+\f@ncyO@erh=\skip51
+\f@ncyO@olh=\skip52
+\f@ncyO@orh=\skip53
+\f@ncyO@elf=\skip54
+\f@ncyO@erf=\skip55
+\f@ncyO@olf=\skip56
+\f@ncyO@orf=\skip57
 )
 (./jobInterview.aux)
 \openout1 = `jobInterview.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -353,44 +306,49 @@ LaTeX Font Info:    ... okay on input line 23.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count111
-\scratchdimen=\dimen146
-\scratchbox=\box33
-\nofMPsegments=\count112
-\nofMParguments=\count113
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count114
-\MPscratchDim=\dimen147
-\MPnumerator=\count115
-\makeMPintoPDFobject=\count116
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count104
+\scratchdimen=\dimen131
+\scratchbox=\box32
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen132
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks27
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 28.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
  [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./jobI
-nterview.aux) ) 
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (12.11777pt too wide) in paragraph at lines 108--110
+[]\OT1/cmr/m/n/12 Look at ex-am-ple start ups and think about what you might ne
+ed. Think about things/personnel
+ []
+
+[2] [3] (./jobInterview.aux) ) 
 Here is how much of TeX's memory you used:
- 4223 strings out of 493089
- 56181 string characters out of 6134842
- 228049 words of memory out of 5000000
- 7637 multiletter control sequences out of 15000+600000
+ 3452 strings out of 493089
+ 46551 string characters out of 6134842
+ 117498 words of memory out of 5000000
+ 6886 multiletter control sequences out of 15000+600000
  5512 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,5n,43p,334b,145s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb>
-Output written on jobInterview.pdf (1 page, 37263 bytes).
+ 42i,5n,43p,334b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb>
+Output written on jobInterview.pdf (3 pages, 44076 bytes).
 PDF statistics:
- 20 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 26 PDF objects out of 1000 (max. 8388607)
+ 17 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
