@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  9 APR 2017 15:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  15 AUG 2017 10:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -321,9 +321,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/xr.sty
 Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
-Package xr Info: IMPORTING LABELS FROM ../advice/generalAdvice.aux on input lin
-e 15.
-Package xr Info: IMPORTING LABELS FROM ../advice/funding.aux on input line 16.
+Package xr Info: IMPORTING LABELS FROM ../../advice/general/generalAdvice.aux o
+n input line 15.
+Package xr Info: IMPORTING LABELS FROM ../../advice/funding/funding.aux on inpu
+t line 16.
  (./personnel.aux)
 \openout1 = `personnel.aux'.
 
@@ -432,10 +433,10 @@ Package rerunfilecheck Info: File `personnel.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 138.
  ) 
 Here is how much of TeX's memory you used:
- 6638 strings out of 493089
- 96168 string characters out of 6134842
- 189956 words of memory out of 5000000
- 9984 multiletter control sequences out of 15000+600000
+ 6640 strings out of 493089
+ 96214 string characters out of 6134842
+ 190018 words of memory out of 5000000
+ 9985 multiletter control sequences out of 15000+600000
  7548 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,6n,28p,331b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -445,7 +446,7 @@ exist, replaced by a fixed one
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on personnel.pdf (3 pages, 47762 bytes).
+Output written on personnel.pdf (3 pages, 47770 bytes).
 PDF statistics:
  116 PDF objects out of 1000 (max. 8388607)
  106 compressed objects within 2 object streams
